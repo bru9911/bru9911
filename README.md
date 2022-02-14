@@ -30,10 +30,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
 
 </a>
-COMPETÊNCIAS: 
+<p>COMPETÊNCIAS:
 
-![<JAVA>](https://img.shields.io/badge/-<NOMEDACOMPETÊNCIA2>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
-![<PYTHON>](https://img.shields.io/badge/-<NOMEDACOMPETÊNCIA2>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
-![<PHP>](https://img.shields.io/badge/-<NOMEDACOMPETÊNCIA2>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
-![<HTML>](https://img.shields.io/badge/-<NOMEDACOMPETÊNCIA2>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
-![<CSS>](https://img.shields.io/badge/-<NOMEDACOMPETÊNCIA2>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Java&logoColor=007396)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=Java&logoColor=007396)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=Java&logoColor=007396)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=Java&logoColor=007396)
+    </p>
