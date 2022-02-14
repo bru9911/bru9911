@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=Java&logoColor=007396)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=Java&logoColor=007396)
     </p>
+<img src="https://github-readme-stats.vercel.app/api?username=<bru9911>&show_icons=true&theme=tokyonight"/>
