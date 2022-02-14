@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   <a href="https://github.com/bru9911" alt="github">
     <img src="https://camo.githubusercontent.com/200df213f65ea73ad573120908a567e772c132790a74fc0d7915f18be7bff626/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3030303030303f267374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-000000?&amp;style=flat-square&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <img height="180em" src="https://camo.githubusercontent.com/8d0cc550b6211336a39e4a91a20384e5cd5426e186d96838a6d6bc16db99230a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d74617373696f7466632673686f775f69636f6e733d74727565267468656d653d746f6b796f6e69676874" data-canonical-src="https://github-readme-stats.vercel.app/api?username=tassiotfc&amp;show_icons=true&amp;theme=tokyonight" style="max-width: 100%;">
+ 
