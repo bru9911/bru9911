@@ -30,3 +30,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<SEUEMAIL>" />
 
 </a>
+COMPETÊNCIAS: 
+
+![<JAVA>](https://img.shields.io/badge/-<NOMEDACOMPETÊNCIA2>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
+![<PYTHON>](https://img.shields.io/badge/-<NOMEDACOMPETÊNCIA2>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
+![<PHP>](https://img.shields.io/badge/-<NOMEDACOMPETÊNCIA2>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
+![<HTML>](https://img.shields.io/badge/-<NOMEDACOMPETÊNCIA2>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
+![<CSS>](https://img.shields.io/badge/-<NOMEDACOMPETÊNCIA2>-333333?style=flat&logo=<NOMEDACOMPETÊNCIA2>&logoColor=007396)
