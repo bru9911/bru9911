@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 
 
-### <p> Quase 2500 exercicios completos no site devmedia https://www.devmedia.com.br/perfil/bruno-384 </p>
-### <p> Almost 2500 complete exercises on the devmedia website https://www.devmedia.com.br/perfil/bruno-384 </p>
+### <p> Mais de 2500 exercicios completos no site devmedia https://www.devmedia.com.br/perfil/bruno-384 </p>
+### <p> More of 2500 complete exercises on the devmedia website https://www.devmedia.com.br/perfil/bruno-384 </p>
